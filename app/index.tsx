@@ -3,12 +3,12 @@ import {
   StyleSheet,
   Platform,
   View,
-  SafeAreaView,
   StatusBar,
   TouchableHighlight,
   Linking,
   Text,
 } from "react-native";
+import { SafeAreaView } from "react-native-safe-area-context";
 import {
   Camera,
   useCameraDevice,
