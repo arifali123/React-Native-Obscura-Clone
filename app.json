@@ -18,7 +18,7 @@
         "NSCameraUsageDescription": "$(PRODUCT_NAME) needs access to your Camera.",
         "NSMicrophoneUsageDescription": "$(PRODUCT_NAME) needs access to your Microphone."
       },
-      "bundleIdentifier": "dev.codewithbeto.obscura"
+      "bundleIdentifier": "dev.arifali123.obscura"
     },
     "android": {
       "adaptiveIcon": {
